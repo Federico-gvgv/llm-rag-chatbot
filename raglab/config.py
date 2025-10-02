@@ -18,6 +18,6 @@ class Settings(BaseModel):
 
     @staticmethod
     def load(path: str) -> "Settings":
-        with open(path, "r") as f:
+        with open(path, "r", encoding="utf-8") as f:
             cfg = yaml.safe_load(f)
         return Settings(**cfg)
