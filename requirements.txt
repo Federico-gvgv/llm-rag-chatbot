@@ -1,0 +1,14 @@
+python-dotenv
+requests
+trafilatura
+beautifulsoup4
+tqdm
+numpy
+faiss-cpu
+sentence-transformers>=2.7
+scikit-learn
+pydantic
+pyyaml
+tiktoken
+streamlit
+openai>=1.40.0
