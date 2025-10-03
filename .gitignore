@@ -1,0 +1,57 @@
+# -----------------------
+# Python
+# -----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Byte-compiled / optimized / DLL files
+*.dll
+*.a
+*.o
+*.lo
+*.la
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# -----------------------
+# Project specific
+# -----------------------
+# Generated data from RAG pipeline
+data/raw/
+data/processed/
+data/chunks/
+index/
+eval/results.csv
+
+# Local notebooks or experiments
+*.ipynb_checkpoints
+*.log
+*.tmp
+
+# -----------------------
+# Editors / IDEs
+# -----------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -----------------------
+# Secrets
+# -----------------------
+.env
+*.key
+*.pem
