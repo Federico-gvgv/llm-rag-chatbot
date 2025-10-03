@@ -28,17 +28,17 @@ retriever:
   top_k: 5
   use_mmr: true
   mmr_lambda: 0.5
-  min_score: 0.25 # below this → “I don’t know”
+  min_score: 0.25 # below this -> “I don’t know”
 
 
 llm:
   provider: ollama # one of: ollama | openai
-  model: mistral:instruct # or llama3.1:8b-instruct
+  model: mistral:instruct #gpt-5 # or llama3.1:8b-instruct
   temperature: 0.2
   max_tokens: 512
   timeout_sec: 60
 
 
 ui:
-  title: "Python Docs Help Bot (RAG)"
+  title: "Python Help Bot (RAG)"
   banned_queries: ["medical", "diagnosis", "financial advice"]
