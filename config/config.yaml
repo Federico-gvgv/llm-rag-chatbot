@@ -1,4 +1,4 @@
-project_name: python-docs-rag
+project_name: PythonDocs Assistant
 seed_domain: docs.python.org # stay in-domain for crawl
 seeds_file: data/seeds.txt
 
