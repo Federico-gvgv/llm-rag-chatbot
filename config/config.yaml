@@ -40,5 +40,5 @@ llm:
 
 
 ui:
-  title: "Python Help Bot (RAG)"
+  title: "PythonDocs Assistant"
   banned_queries: ["medical", "diagnosis", "financial advice"]
