@@ -2,3 +2,13 @@ https://docs.python.org/3/tutorial/index.html
 https://docs.python.org/3/library/index.html
 https://docs.python.org/3/faq/programming.html
 https://docs.python.org/3/howto/logging.html
+https://docs.python.org/3/library/dataclasses.html
+https://docs.python.org/3/library/functools.html
+https://docs.python.org/3/library/concurrent.futures.html
+https://docs.python.org/3/library/asyncio-task.html
+https://docs.python.org/3/library/os.path.html
+https://docs.python.org/3/library/pathlib.html
+https://docs.python.org/3/library/typing.html
+https://docs.python.org/3/library/shutil.html
+https://docs.python.org/3/library/re.html
+https://docs.python.org/3/library/argparse.html

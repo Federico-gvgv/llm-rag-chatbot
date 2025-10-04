@@ -1,0 +1,50 @@
+{"q":"How do I create a virtual environment?","a":"venv"}
+{"q":"What’s the syntax for f-strings?","a":"f-strings"}
+{"q":"Which module parses JSON?","a":"json"}
+{"q":"Does Python have a switch statement?","a":"match case"}
+{"q":"What statement handles exceptions?","a":"try except"}
+{"q":"How do I open a file safely?","a":"with open"}
+{"q":"Which module provides file system paths as objects?","a":"pathlib"}
+{"q":"How do I get the current working directory?","a":"os.getcwd"}
+{"q":"Which module handles regular expressions?","a":"re"}
+{"q":"How do I deep copy an object?","a":"deepcopy"}
+{"q":"Which statement defines a function?","a":"def"}
+{"q":"How do I handle multiple exceptions in one block?","a":"except ( ... )"}
+{"q":"What’s the keyword to create a generator function?","a":"yield"}
+{"q":"How do I format with placeholders like {}?","a":"str.format"}
+{"q":"Which module provides logging utilities?","a":"logging"}
+{"q":"What does if __name__ == \"__main__\": do?","a":"module as script"}
+{"q":"How do I parse command-line arguments?","a":"argparse"}
+{"q":"Which module provides date and time types?","a":"datetime"}
+{"q":"How do I read environment variables?","a":"os.environ"}
+{"q":"Which module runs subprocesses?","a":"subprocess"}
+{"q":"How do I create a data class?","a":["@dataclass","dataclasses.dataclass"]}
+{"q":"How do I iterate over items with an index?","a":"enumerate"}
+{"q":"How can I cache a function’s results?","a":["functools.lru_cache","lru_cache"]}
+{"q":"Which module provides high-level concurrency with thread pools?","a":["concurrent.futures","ThreadPoolExecutor"]}
+{"q":"How do I sleep in an async function?","a":"asyncio.sleep"}
+{"q":"How do I join path segments in a cross-platform way?","a":["os.path.join","pathlib.Path"]}
+{"q":"Which type hint represents an optional value?","a":["typing.Optional","Optional"]}
+{"q":"How do I copy an entire directory tree?","a":["shutil.copytree","copytree"]}
+{"q":"How do I compile a regular expression for reuse?","a":"re.compile"}
+{"q":"How do I parse subcommands on the command line?","a":["argparse subparsers","add_subparsers","subparsers"]}
+{"q":"How do I count occurrences of items in an iterable?","a":"collections.Counter"}
+{"q":"How do I create a dictionary with automatic int defaults?","a":["collections.defaultdict","defaultdict(int)"]}
+{"q":"Which data structure supports fast appends and pops from both ends?","a":"collections.deque"}
+{"q":"How do I compute the cartesian product of iterables?","a":"itertools.product"}
+{"q":"How do I group consecutive items by key?","a":"itertools.groupby"}
+{"q":"How do I choose combinations of k items from a sequence?","a":"itertools.combinations"}
+{"q":"How do I find an insertion point in a sorted list?","a":["bisect.bisect","bisect.insort","bisect","insort"]}
+{"q":"Which module implements a min-heap?","a":"heapq"}
+{"q":"How do I pretty-print Python objects?","a":["pprint","pprint.pprint"]}
+{"q":"How do I read CSV files?","a":["csv.reader","csv","DictReader","csv.DictReader"]}
+{"q":"How do I write CSV files?","a":["csv.writer","csv","DictWriter","csv.DictWriter"]}
+{"q":"How do I parse a date string into a datetime?","a":["datetime.strptime","strptime"]}
+{"q":"How do I pick a random element from a list?","a":"random.choice"}
+{"q":"How do I compute a SHA-256 hash?","a":["hashlib.sha256","sha256"]}
+{"q":"How do I fetch a URL with the standard library?","a":["urllib.request","urllib"]}
+{"q":"How do I encode data in Base64?","a":"base64.b64encode"}
+{"q":"How do I decode Base64 data?","a":"base64.b64decode"}
+{"q":"How do I serialize and deserialize Python objects to bytes?","a":"pickle"}
+{"q":"How do I create a temporary file?","a":["tempfile.NamedTemporaryFile","tempfile"]}
+{"q":"How do I define a read-only attribute via a property?","a":["@property","property"]}

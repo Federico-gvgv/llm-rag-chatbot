@@ -4,7 +4,7 @@ seeds_file: data/seeds.txt
 
 
 scrape:
-  max_pages: 150
+  max_pages: 400
   same_domain_only: true
   timeout_sec: 15
 
