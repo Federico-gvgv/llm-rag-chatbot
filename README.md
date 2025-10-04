@@ -99,7 +99,7 @@ https://docs.python.org/3/library/argparse.html
 > [1] https://docs.python.org/3/library/venv.html
 
 
-![Chat Example Screenshot](assets/chat-example.png)
+![Chat Example Screenshot](assets/chat_example.png)
 
 ---
 
