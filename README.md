@@ -195,4 +195,4 @@ Head-to-head:
 
 ## License
 
-MIT License © 2025 — *Federico [Your Last Name]*
+MIT License © 2025 — *Federico García*
