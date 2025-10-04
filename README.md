@@ -1,4 +1,4 @@
-# Python Docs RAG Chatbot
+# PythonDocs Assistant
 
 A **Retrieval-Augmented Generation (RAG)** chatbot that answers Python questions using the **official documentation** as its knowledge base.  
 It retrieves relevant doc snippets, grounds the answer with citations, and provides a clean chat UI powered by Streamlit.
@@ -97,10 +97,6 @@ https://docs.python.org/3/library/argparse.html
 >
 > **Sources:**  
 > [1] https://docs.python.org/3/library/venv.html
-> [2] https://docs.python.org/3/library/webbrowser.html
-> [3] https://docs.python.org/3/copyright.html
-> [4] https://docs.python.org/3/library/windows.html
-> [5] https://docs.python.org/3/genindex-_.html
 
 
 ![Chat Example Screenshot](assets/chat-example.png)
